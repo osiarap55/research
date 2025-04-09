@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4999e55f4ec83827",
+        "id": "c8950c5c1abce3d4",
         "type": "tabs",
         "children": [
           {
-            "id": "eb98d43603fddb77",
+            "id": "df0cc6ff057146e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "incremento_oceanos_algortimos.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "incremento_oceanos_algortimos"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -168,18 +164,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "eb98d43603fddb77",
+  "active": "df0cc6ff057146e6",
   "lastOpenFiles": [
+    "modelo_negocio_construccion.md",
+    "regulacion_mercado_inmobiliario_resumen.md",
+    "regulacion_mercado_inmobiliario.md",
+    "regulacion_influencia_mercado_inmobiliario.png",
+    "inflaccion_valor_del_dinero_resumen.md",
+    "incremento_oceanos_algortimos.md",
     "58970561-5465-49be-b939-cb6d655c303f.png",
     "58970561-5465-49be-b939-cb6d655c303f.png.crdownload",
     "125c4709-9d85-400c-9b01-58435dcc050a.png",
     "125c4709-9d85-400c-9b01-58435dcc050a.png.crdownload",
     "incremento_oceanos_algortimos.md~",
     "4913",
-    "regulacion_mercado_inmobiliario_resumen.md",
-    "regulacion_mercado_inmobiliario.md",
-    "regulacion_influencia_mercado_inmobiliario.png",
-    "inflaccion_valor_del_dinero_resumen.md",
     "inflaccion_valor_del_dinero.md"
   ]
 }
